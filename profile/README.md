@@ -1,6 +1,6 @@
 # Testside for Direktoratet for e-helse
 
-Dette er ikke en offisiell kanal for direktoratet for e-helse men en testside for å prøve ut bruk av GitHub i Direktoratet for e-helse sin arbeidsprosess.
+Dette er ikke en offisiell kanal for direktoratet for e-helse men en testside for å prøve ut bruk av GitHub i Direktoratet for e-helse sin arbeidsprosess. Første prøveprosjekt er Digital hjemmeoppfølging.  
 
 <!--
 

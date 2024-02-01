@@ -1,4 +1,4 @@
-# Testside for Direktoratet for e-helse
+# Testside for Helsedirektoratet
 
 Arkitekturbibliotekets formål er å fremme samarbeid, gjenbruk og læring i helse- og omsorgssektoren ved å gjøre det enklere å dele arkitekturbeskrivelser på tvers av virksomheter.
 
